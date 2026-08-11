@@ -1,0 +1,8 @@
+Time = 0  | Address = 000 | Data = 10
+Time = 10 | Address = 001 | Data = 20
+Time = 20 | Address = 010 | Data = 30
+Time = 30 | Address = 011 | Data = 40
+Time = 40 | Address = 100 | Data = 50
+Time = 50 | Address = 101 | Data = 60
+Time = 60 | Address = 110 | Data = 70
+Time = 70 | Address = 111 | Data = 80
